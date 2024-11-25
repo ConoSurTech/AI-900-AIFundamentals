@@ -202,7 +202,7 @@ Now let's open and edit a pre-written script, which will run the client applicat
 1. In the command shell, enter the following command to download the sample application and save it to a folder called ai-900.
 
     ```PowerShell
-    git clone https://github.com/MicrosoftLearning/AI-900-AIFundamentals ai-900
+    git clone https://github.com/ConoSurTech/AI-900-AIFundamentals ai-900
     ```
 
     >**Note**

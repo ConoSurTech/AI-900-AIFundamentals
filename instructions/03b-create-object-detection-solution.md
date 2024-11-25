@@ -146,7 +146,7 @@ To test the capabilities of the Custom Vision service, we'll use a simple comman
 
     ```PowerShell
     rm -r ai-900 -f
-    git clone https://github.com/MicrosoftLearning/AI-900-AIFundamentals ai-900
+    git clone https://github.com/ConoSurTech/AI-900-AIFundamentals ai-900
     ```
 
 3. After the files have been downloaded, enter the following commands to change to the **ai-900** directory and edit the code file for this exercise:

@@ -69,7 +69,7 @@ Now that you have a custom model, you can run a simple client application that u
 1. In the command shell, enter the following command to download the sample application and save it to a folder called ai-900.
 
     ```PowerShell
-    git clone https://github.com/MicrosoftLearning/AI-900-AIFundamentals ai-900
+    git clone https://github.com/ConoSurTech/AI-900-AIFundamentals ai-900
     ```
 
     >**Tip**

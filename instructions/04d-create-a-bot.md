@@ -68,7 +68,7 @@ The Language service's custom question answering feature enables you to quickly 
 
 1. In the **Add URLs** box, click **+ Add url**. Type in the following and select **Add all**:
     - **URL name**: MargiesKB
-    - **URL**: `https://raw.githubusercontent.com/MicrosoftLearning/AI-900-AIFundamentals/main/data/qna/margies_faq.docx`
+    - **URL**: `https://raw.githubusercontent.com/ConoSurTech/AI-900-AIFundamentals/main/data/qna/margies_faq.docx`
     - **Classify file structure**: *Auto-detect* 
 
 ## Edit the knowledge base
